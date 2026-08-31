@@ -1,0 +1,15 @@
+<mod>
+  <name>Space Haven Live Trainer - External GUI</name>
+  <author>Luca Cococcioni</author>
+  <gameVersions>
+    <v>1.0.4_steam</v>
+    <v>1.0.4</v>
+  </gameVersions>
+  <minimumLoaderVersion>0.10.0</minimumLoaderVersion>
+  <version>0.7.2</version>
+  <description><![CDATA[
+External Windows GUI trainer for Space Haven.
+Resources, crew controls, live crew editor and research controls.
+Communication is local-only on 127.0.0.1:17840.
+  ]]></description>
+</mod>

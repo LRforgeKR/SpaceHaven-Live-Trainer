@@ -1,0 +1,20 @@
+# Local game files / proprietary dependencies
+spacehaven.jar
+/spacehaven.jar
+dependencies/
+*.log
+
+# Build output
+_build/
+build-out/
+*.class
+
+# Local backups
+*_backup_*/
+*.bak
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
