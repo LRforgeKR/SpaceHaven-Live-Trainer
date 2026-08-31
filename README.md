@@ -3,7 +3,7 @@
 External Windows trainer and runtime mod for **Space Haven**.
 
 **Author:** Luca Cococcioni  
-**Current version:** v0.7.2  
+**Current version:** v0.8.1  
 **Tested game build:** `1.0.4_steam`  
 **Minimum Mod Loader version:** `0.10.0`
 
@@ -46,6 +46,9 @@ The GUI does not edit save files directly. It sends local commands to the mod lo
 - Complete one technology
 - Complete all visible technologies
 - Instant Research toggle
+- Redesigned bilingual Italian/English external GUI
+- Live language switching with saved preference
+- Searchable research list
 - External GUI with live status and hotkey synchronization
 - Local-only communication on `127.0.0.1:17840`
 
@@ -65,7 +68,7 @@ The GUI does not edit save files directly. It sends local commands to the mod lo
 3. Run `INSTALLA_MOD.bat`.
 4. The installer tries to detect Space Haven in your Steam libraries.
 5. Open Space Haven Mod Loader.
-6. Confirm that **Space Haven Live Trainer v0.7.2** is enabled.
+6. Confirm that **Space Haven Live Trainer v0.8.1** is enabled.
 7. Use **Clear QuickLaunch cache**.
 8. Launch Space Haven through the Mod Loader and load a game.
 9. Run `AVVIA_GUI.bat`.

@@ -1,5 +1,26 @@
 # Changelog
 
+## v0.8.1
+
+- Fixed a Windows PowerShell 5.1 parser error in the installer.
+- Corrected detection of the `ProgramFiles(x86)` environment variable.
+- Improved automatic Steam library detection.
+- Installer now supports both GitHub Release and source-repository folder layouts.
+- Backend and GUI behavior remain unchanged from v0.8.0.
+
+## v0.8.0
+
+- Major external GUI redesign with a modern dark interface.
+- Added live Italian / English language switching.
+- Language preference is saved locally and restored on next launch.
+- Resource names are localized in Italian and English.
+- Research state labels and confirmation dialogs are localized.
+- Added technology search/filter.
+- Added a live dashboard with status cards, active features and quick actions.
+- Replaced standard checkboxes with clearer stateful toggle controls.
+- Improved crew editor layout and readability.
+- Preserved the tested localhost protocol and trainer backend behavior.
+
 ## v0.7.2
 
 - Prepared public GitHub project structure.

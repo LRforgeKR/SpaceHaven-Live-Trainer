@@ -41,7 +41,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 @Aspect
 public class LiveTrainerAspect {
-    private static final String VERSION = "0.7.2";
+    private static final String VERSION = "0.8.1";
     private static final int GUI_PORT = 17840;
     private static final int CREDIT_BONUS = 100000;
     private static final int HYPERFUEL_ID = 178;
